@@ -1,7 +1,7 @@
-#Extreme Learning Machines (ELMs) for Image Classification and Reconstruction
+# Extreme Learning Machines (ELMs) for Image Classification and Reconstruction
 This repository contains a Jupyter notebook that demonstrates the implementation of Extreme Learning Machines (ELMs) for both image classification and image reconstruction tasks, using Python and PyTorch.
 
-##Overview
+# Overview
 Extreme Learning Machines (ELMs) are a type of feedforward neural network that differs from conventional networks in the way they are trained. Unlike traditional neural networks that require iterative backpropagation for training, ELMs have analytically determined output weights, leading to significantly faster training times.
 
 In this notebook, I explore the implementation of ELMs through the following steps:
